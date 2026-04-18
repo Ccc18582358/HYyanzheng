@@ -1,7 +1,7 @@
 {
   "allowed_users": {
-    "user_111": {"expire": "2026-04-22", "type": "pro"},
-    "user_222": {"expire": "2026-04-01", "type": "trial"}
+    "user_111": {"expire": "2026-04-22", "type": "pro", "pwd":  "123456"},
+    "user_222": {"expire": "2026-04-01", "type": "trial", "pwd":  "123456"}
   },
   "latest_version": "0.0.1",
   "notice": "服务器正在维护，预计下午恢复。"
