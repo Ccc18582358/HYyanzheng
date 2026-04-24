@@ -1,6 +1,6 @@
 {
   "allowed_users": {
-    "user_111": {"expire": "2026-05-26", "type": "pro", "pwd":  "111"},
+    "user_111": {"expire": "2026-05-26", "type": "pro", "pwd":  "1111"},
     "user_222": {"expire": "2026-04-01", "type": "trial", "pwd":  "123456"}
   },
   "latest_version": "0.0.1",
